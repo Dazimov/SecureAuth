@@ -1,6 +1,6 @@
 {
   "name": "secure-auth",
-  "version": "0.3.19",
+  "version": "0.3.20",
   "author": "Conor Luddy <conorluddy@gmail.com>",
   "license": "MIT",
   "description": "SecureAuth is a Node.js Express authentication and authorization API",
